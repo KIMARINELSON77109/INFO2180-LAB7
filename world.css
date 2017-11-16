@@ -1,0 +1,21 @@
+h1 {
+	margin: 0;
+	background-color: #aac;
+	font-family: sans-serif;
+	padding: 5px;
+}
+
+body > div {
+	padding: 8px;
+}
+
+#controls {
+	background-color: #aab;
+}
+
+
+#result{
+	background-color: #def;
+	font-family: sans-serif;
+	
+}
